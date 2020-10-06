@@ -26,5 +26,5 @@
 ### docker push $ECR-Repository-URL
 
 ### step 5:
-### check the AWS console Image is aviable;
+### check the AWS console Image is avialble;
 
