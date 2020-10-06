@@ -12,6 +12,6 @@ public class GenericController {
 
     @GetMapping("/image")
     public String displayRandomDockerImage(){
-      return  "creating docker image :"+ UUID.randomUUID();
+      return  "Creating random Instance :"+ UUID.randomUUID();
     }
 }
